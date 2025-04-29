@@ -1,0 +1,15 @@
+# Игнорировать папку node_modules
+node_modules/
+
+# Игнорировать временные файлы
+.DS_Store
+.env
+.idea/
+.vscode/
+
+# Игнорировать логи
+logs/*.log
+
+# Игнорировать артефакты сборки
+build/
+dist/
